@@ -29,6 +29,7 @@ namespace mapper
 
             Console.Read();
             //Mapper.CreateMap<departamento, distrito>();
+            //primer cambio 
         }
 
     }
