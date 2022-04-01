@@ -34,7 +34,7 @@ namespace mapper
             await tarea2;
             int res = await prueba();
             Console.WriteLine(res);
-
+            // cambios primeros 
             //await tarea;
             Console.WriteLine("Primera tarea");
             Console.ReadLine();
